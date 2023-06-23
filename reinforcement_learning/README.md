@@ -1,4 +1,3 @@
-# Homework-3
 
 ## Setup and Installation
 
@@ -23,7 +22,7 @@ To set up the project environment, Use the `environment.yml` file. It contains t
     export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/.mujoco/mujoco210/bin
     export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libGLEW.so
     
-## Running the assignment
+## Running the files
 
 ### Policy Gradient
     python3 main.py --task policy_gradient
